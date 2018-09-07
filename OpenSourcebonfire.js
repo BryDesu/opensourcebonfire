@@ -1,0 +1,1 @@
+alert("Welcome to Open Source Bonfire, gather around and enjoy the flame");
